@@ -1,2 +1,2 @@
 # Website-HTML-CSS
-A website design made up of HTML and CSS only. The website is not responsive.
+A website design made up of HTML and CSS only. Thi website is not responsive.
